@@ -8,13 +8,13 @@ Welcome to the **Data Structures and Algorithms (DSA) in C** repository! This co
 
 Each concept is organized by topic, with clean, modular code and in-line comments for clarity.
 
-📁 Arrays
-📁 LinkedLists
-📁 Stacks
-📁 Queues
-📁 Trees
-📁 Searching
-📁 Sorting
+📁 Arrays  
+📁 LinkedLists  
+📁 Stacks  
+📁 Queues  
+📁 Trees  
+📁 Searching  
+📁 Sorting  
 
 
 ---
